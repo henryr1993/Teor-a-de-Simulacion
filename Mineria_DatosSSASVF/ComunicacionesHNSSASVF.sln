@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.35425.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "ComunicacionesHNSSASVF", "ComunicacionesHNSSASVF\ComunicacionesHNSSASVF.dwproj", "{0CB267B3-7EB8-4654-ABF0-6D547BE6AC25}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CB267B3-7EB8-4654-ABF0-6D547BE6AC25}.Development|Default.ActiveCfg = Development
+		{0CB267B3-7EB8-4654-ABF0-6D547BE6AC25}.Development|Default.Build.0 = Development
+		{0CB267B3-7EB8-4654-ABF0-6D547BE6AC25}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14AC0517-A137-4D4E-8617-67AA49D72BEA}
+	EndGlobalSection
+EndGlobal
